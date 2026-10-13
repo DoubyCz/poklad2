@@ -1,0 +1,27 @@
+[package]
+name = "poklad2"
+version = "1.0.0"
+edition = "2024"
+rust-version = "1.88"
+description = "Volná reimplementace textové adventury Poklad 2 (František Fuka, FUXOFT 1985) v Rustu"
+license = "MIT"
+authors = ["Jiří Doubravský <douby@douby.cz>"]
+repository = "https://github.com/DoubyCz/poklad2"
+readme = "README.md"
+keywords = ["game", "text-adventure", "zx-spectrum", "terminal", "tui"]
+categories = ["games", "command-line-utilities"]
+
+[lints.rust]
+unsafe_code = "forbid"
+
+[lints.clippy]
+pedantic = { level = "warn", priority = -1 }
+
+[dependencies]
+ratatui = "0.30.2"
+
+# Jeden malý soubor ke stažení.
+[profile.release]
+lto = true
+codegen-units = 1
+strip = true

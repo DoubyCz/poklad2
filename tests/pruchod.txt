@@ -1,0 +1,108 @@
+V
+vezmi svitilnu
+J
+J
+J
+Z
+Z
+S
+vezmi pusku
+Z
+J
+vezmi klic
+S
+V
+J
+V
+V
+S
+S
+S
+Z
+J
+J
+vezmi ptacka
+S
+S
+Z
+J
+Z
+S
+S
+V
+V
+poloz ptacka
+V
+vezmi diamant
+Z
+Z
+poloz klic
+rozsvit
+D
+J
+V
+J
+V
+S
+S
+Z
+vezmi naboje
+V
+J
+J
+Z
+S
+zastrel
+vezmi lzicku
+J
+J
+Z
+S
+vezmi baterie
+J
+V
+J
+Z
+Z
+S
+zastrel
+S
+vezmi pytlik
+S
+S
+poloz pusku
+poloz naboje
+vezmi skafandr
+J
+J
+J
+J
+V
+V
+S
+S
+V
+J
+J
+vezmi lahvicku
+S
+S
+allah
+D
+Z
+S
+Z
+Z
+S
+S
+poloz lahvicku
+S
+vezmi kousek
+J
+J
+J
+V
+V
+S
+S
+vezmi svycarske
